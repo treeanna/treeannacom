@@ -1,0 +1,74 @@
+body, html {
+    background-color: #f6eaea;
+}
+
+h1 {
+    font-size: 1.5em;
+    color: #B26AAB;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1em;
+    text-align: center;
+    color: #C19BC0;
+    padding: 0;
+    margin 0;
+}
+
+#logo {
+    text-align: center;
+    margin-top: 4em;
+}
+
+#main {
+    margin-top: 4em;
+}
+
+img {
+    max-width: 100%;
+}
+
+p {
+    margin-top: 2em;
+}
+
+#menu {
+    list-style-type: none;
+    margin-top: 3em;
+}
+
+
+#menu li {
+    margin-top: 1em;
+    text-transform: uppercase;
+}
+
+#menu li a {
+    color: #57B598;
+}
+
+#menu li.active a {
+    color: #17967D;
+}
+
+#contact {
+    list-style-type: none;
+    padding: 0;
+}
+
+#contact li {
+    margin-top: 0.5em;
+
+    
+}
+
+#contact li a {
+    color: #B26AAB;
+}
+
+.work {
+margin-top: 0.5em;
+margin-bottom: 0.5em
+}
